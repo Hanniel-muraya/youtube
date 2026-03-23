@@ -1,4 +1,20 @@
 body {
-  background-color: black;
+  /* background-color: black; */
   color: white;
+}
+#youtube-premium-icon{
+  height: 30px;
+   width: 120px;
+}
+#notification-icon {
+  height: 30px;
+  width: 30px;
+}
+#search-icon{
+  height: 30px;
+  width: 30px;
+}
+.horizontal-bar{
+  display: flex;
+  justify-content: space-between;
 }

@@ -1,19 +1,32 @@
 body {
-  /* background-color: black; */
+  background-color: black; 
   color: white;
 }
+#cast-screen-icon{
+  height: 30px;
+ width: 30px;
+  fill: white;
+  color: white;
+}
+
 #youtube-premium-icon{
   height: 30px;
    width: 120px;
+   fill: white;
 }
+
 #notification-icon {
   height: 30px;
   width: 30px;
+  fill: white;
 }
+
 #search-icon{
   height: 30px;
   width: 30px;
+  fill: white;
 }
+
 .horizontal-bar{
   display: flex;
   justify-content: space-between;

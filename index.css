@@ -26,6 +26,7 @@ body {
   width: 30px;
   fill: white;
 }
+
 #profile-icon{
   border-radius: 50%;
   background-color: pink;
@@ -34,11 +35,15 @@ body {
   width: 30px;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center;  
+}
 
+#right-icons{
+  gap: 20px;
 }
 
 .horizontal-bar{
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
